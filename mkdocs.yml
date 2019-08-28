@@ -1,0 +1,45 @@
+site_name: Recetonas cojonudas
+
+nav:
+  - Índice: index.md
+  - Aves:
+    - Pechuga de pollo al horno: aves/PechugasDePolloAsadas.md
+    - Empanada de pollo, boniato y pimientos: aves/EmpanadaDePolloBoniatoYPimientos.md
+    - Pollo agridulce: aves/PolloAgridulce.md
+  - Carnes:
+    - Ejemplo: carnes/Ejemplo.md
+  - Arroces:
+    - Arroz con setas y carne al PX: arroces/ArrozConSetasYCarneAlPX.md
+  - Pan:
+    - Chapata: pan/Chapata.md
+    - Tortos de maíz: pan/TortosDeMaiz.md
+  - Pastas:
+    - Ejemplo: pastas/Ejemplo.md
+  - Guisos:
+    - Ejemplo: guisos/Ejemplo.md
+  - Tartas:
+    - Cheesecake cremosa: tartas/RecetaCheesecakeCremosa.md
+    - Cheesecake de La Viña: tartas/RecetaCheesecakeDeLaViñaConCompotaDeCerezas.md
+    - Cheesecake Oreo: tartas/RecetaCheesecakeOreo.md
+    - Tarta 3 chocolates: tartas/RecetaTarta3Chocolates.md
+    - Tarta de crema con mousse de chocolate blanco: tartas/RecetaTartaDeCremaConMousseDeChocolateBlanco.md
+  - Repostería:
+    - Crema pastelera: reposteria/CremaPastelera.md
+    - Lemon curd: reposteria/LemonCurd.md
+    - Flan de leche condensada: reposteria/FlanDeLecheCondensada.md
+    - Fudge Oreo: reposteria/FudgeOreo.md
+    - Glaseado espejo: reposteria/GlaseadoEspejo.md
+    - Moscovitas: reposteria/Moscovitas.md
+    - Arroz con leche: reposteria/ArrozConLeche.md
+    - Leche frita: reposteria/LecheFrita.md
+    - Crepes: reposteria/Crepes.md
+  - Miscelánea:
+    - Cebolla caramelizada: varios/CebollaCaramelizada.md
+    - Empanada de atún: varios/EmpanadaDeAtun.md
+
+theme: 
+  name: material
+  favicon: /img/tomatoEmoji.ico
+
+extra_css:
+  - 'stylesheets/extra.css'
