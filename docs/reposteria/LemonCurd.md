@@ -10,4 +10,6 @@
 ## Receta
 Batir los huevos a base de bien en un bol. A medida k se baten se va incorporando poco a poco el azúcar primero y cuando se integre, el zumo de limón. Se pone el bol al baño maría y se sigue batiendo con varillas. Cuando empiece a espesar (5-6 minutos) se retira del fuego sin dejar de remover y se incorpora la mantequilla, batiendo bien para incorporarla. <br>
 Se puede dejar espesar más o menos, en función de la textura que se desee (recordar que luego espesa MUCHO).
-Una vez incorporada la mantequilla, añadir la ralladura de limón y remover enérgicamente hasta que se incorpore bien. Echar en un tarro de cristal y dejar enfriar a T ambiente. Después 2 h mínimo de frigorífico y ya se podrá consumir.
+Una vez incorporada la mantequilla, añadir la ralladura de limón y remover enérgicamente hasta que se incorpore bien. Echar en un tarro de cristal una vez templada y dejar enfriar a T ambiente. Después 2 h mínimo de frigorífico y ya se podrá consumir. <br>
+
+Adaptado de [Lolita la pastelera.](https://www.lolitalapastelera.com/crema-de-limon-casera-lemon-curd/)

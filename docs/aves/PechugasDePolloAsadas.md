@@ -1,4 +1,4 @@
-# Pechugas de pollo marinadas al horno
+# PECHUGAS DE POLLO MARINADAS AL HORNO
 
 ## Ingredientes
 

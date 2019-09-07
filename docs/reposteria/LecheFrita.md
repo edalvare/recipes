@@ -19,7 +19,7 @@
 
 En un cazo se ponen 350 ml de leche (reservando 150 aparte), el azúcar, la cáscara de un limón sin la parte blanca y una rama entera de canela. Se revuelve hasta disolver el azúcar sobre un fuego bajo y se deja que dé un hervor (ojo no se escape). Una vez ha empezado a hervir, se apaga el fuego y se retira, dejando infusionar con la piel del limón y la rama de canela unos 15 minutos. Puede añadirse también cáscara de naranja, sin la parte blanca.<br>
 
-En un bol se mezcla la harina y la sal. Si se quiere que salgan muy cremosas se ponen solamente 60 g de harina, pero la masa será mucho más difícil de manipular y conviene trabajarla en frío. Con 80 g de harina sale cremosa pero firme.<br>
+En un bol se mezcla la harina y la sal. Si se quiere que salgan muy cremosas se ponen solamente 60 g de harina, pero la masa será muchísimo más difícil de manipular y conviene trabajarla en frío. Con 80 g de harina sale cremosa pero firme. Puede ponerse maizena, pero sale menos sabrosa.<br>
 
 Una vez hecha la mezcla de sólidos se añaden las 2 yemas y la mitad de la leche restante (unos 75 ml). Se mezcla bien con la harina y la sal. Cuando desaparezcan los grumos, se añade el resto de la leche y se integra bien. Puede añadirse también una cucharada de esencia de vainilla, si se quiere. <br>
 
@@ -32,4 +32,3 @@ Al día siguiente, con la masa fría se espolvorea una superficie con un poco de
 Se pone una sartén con abundante aceite neutro (girasol u oliva suave) al fuego. Para saber si está listo de temperatura se mete un palillo en su centro, y debe burbujear y crear un poco de espuma. Se fríen los pedazos de leche frita en tandas de 3 ó 4 para no enfriar mucho el aceite, hasta que doren por fuera. Se van dejando sobre papel absorbente y después se les pasa por una mezcla de azúcar y canela al gusto mientras aún están calientes. 
 
 Adaptado de [Recetas de Esbieta](https://www.recetasdesbieta.com/leche-frita-muy-cremosa-un-postre-rico-y-facil-de-hacer/)
-

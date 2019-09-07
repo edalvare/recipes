@@ -52,7 +52,7 @@ En un cazo se pone la leche con la vainilla a hervir. En un bol se mezclan las y
 En un bol grande se mezclan la leche y el sobre de cuajada BIEN. La leche debe estar a temperatura ambiente o fría, NO caliente.
 En un cazo se pone a calentar la nata y el chocolate, para formar una ganache. Integrar BIEN todo hasta que no queden grumos. Cuando hierva, retirar del fuego y añadir la leche con la cuajada al cazo. Poner al fuego y dejar hervir 25 s, ni uno mas, sin dejar de remover (espesa un pelín). Verter sobre un cucharón sobre la capa de crema pastelera y dejar cuajar unas 6 h en el frigorífico.
 
-### Para la decoración:
-Verter unos puntos de chocolate derretido con la manga (no hace falta boquilla) e ir pegando las frambuesas con él. El chocolate sobrante se usa para hacer una rejilla de chocolate con él sobre las frambuesas.
+### Para la decoración (Opcional):
+Verter unos puntos de chocolate derretido con la manga (no hace falta boquilla, pero hay que cortar muy poco de la punta para dejar un agujero muy pequeño) e ir pegando las frambuesas con él. El chocolate sobrante se puede usar para hacer una rejilla de chocolate con él sobre las frambuesas. 
 
 

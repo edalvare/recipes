@@ -24,9 +24,11 @@ Triturar la galleta, derretir la mantequilla y mezclar bien las 2 cosas. Poner e
  Más información útil sobre cómo hacer la base [aquí](/tartas/RecetaCheesecakeCremosa/#para-la-base). 
 
 ### Para la pasta: 
-Batir todos los ingredientes de la pasta en un bol con batidora de varillas, o varillas de mano (NO minipimer ni esas mierdas). Echar en el molde encima de la base cuidando de no joderla (verter sobre el dorso de un cucharón). Horno, precalentado a 220ºC durante 40 min. Saldrá como muy blanda (semilíquida) por el centro, pero es como tiene que estar. Dejar reposar mínimo 12 h (recomendable 24) una vez fría, en la nevera.
+Batir todos los ingredientes de la pasta en un bol con batidora de varillas, o varillas de mano (NO minipimer ni esas mierdas). Echar en el molde encima de la base cuidando de no joderla (verter sobre el dorso de un cucharón). Se mete en el horno, precalentado a 220 ºC, durante 40 min. Saldrá como muy blanda (semilíquida) por el centro, pero es como tiene que estar, ya que luego coge consistencia. Dejar reposar mínimo 12 h (recomendable 24) una vez fría, en la nevera.
 
 ### Para el topping de compota de cerezas: 
-Se echan las cerezas (mejor si son muy dulces) partidas al medio y deshuesadas en una sartén, después el azúcar y el zumo de limón. Se deja cocinar a fuego bajo durante 20-30 min y se la añaden 2 cucharadas de agua a los 5 min. Remover de vez en cuando para que no se pegue al fondo. Puede triturarse o dejarse con trozos.
+Se echan las cerezas (mejor si son muy dulces) partidas al medio y deshuesadas en una sartén, después el azúcar y el zumo de limón. Se deja cocinar a fuego bajo durante 20-30 min y se la añaden 2 cucharadas de agua a los 5 min. Remover de vez en cuando para que no se pegue al fondo. Puede triturarse o dejarse con trozos. <br>
+
+Adaptado de [Las recetas de MJ.](http://www.lasrecetasdemj.com/2016/07/tarta-de-queso-de-la-vina-con-compota.html)
 
 
