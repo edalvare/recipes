@@ -15,9 +15,11 @@ nav:
     - Tortos de maíz: pan/TortosDeMaiz.md
   - Pastas:
     - Ejemplo: pastas/Ejemplo.md
+    - Spaghetti Carbonara: pastas/SpaghettiCarbonara.md
   - Guisos:
     - Ejemplo: guisos/Ejemplo.md
     - Ternera estofada con setas: guisos/TerneraEstofadaConSetas.md
+    - Patatas a la Riojana: guisos/PatatasALaRiojana.md
   - Tartas:
     - Cheesecake cremosa: tartas/RecetaCheesecakeCremosa.md
     - Cheesecake de La Viña: tartas/RecetaCheesecakeDeLaViñaConCompotaDeCerezas.md
