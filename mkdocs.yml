@@ -40,7 +40,7 @@ nav:
 
 theme: 
   name: material
-  favicon: /img/tomatoEmoji.ico
+  favicon: /img/tomatoEmojiSmall.png
 
 extra_css:
   - 'stylesheets/extra.css'
