@@ -1,4 +1,4 @@
-# ![Screenshot](/img/tomatoEmojiSmall.ico) Recetas cojonudas ![Screenshot](/img/tomatoEmojiSmall.ico)
+# ![Screenshot](/img/tomatoEmojiSmall.png) Recetas cojonudas ![Screenshot](/img/tomatoEmojiSmall.png)
 
 
 

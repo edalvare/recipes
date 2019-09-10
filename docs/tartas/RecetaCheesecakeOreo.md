@@ -23,7 +23,7 @@
 
 ### Para la base: 
 Separar las oreo y quedarse solo con la galleta (reservar el relleno para la pasta). Triturar la galleta BIEN, derretir la mantequilla y mezclar bien las 2 cosas. Poner en el molde (base y laterales) y apretar. Meter para el frigo. Reservar 4 cucharadas o 5 de polvo fino de galleta oreo para el topping.<br>
- Más información útil sobre cómo hacer la base [aquí](/tartas/RecetaCheesecakeCremosa/#para-la-base) (adaptado).
+ Más información útil sobre cómo hacer la base [aquí](/tartas/RecetaCheesecakeCremosa/#para-la-base) (adaptado al usao de galletas Oreo en vez de Digestive).
 
 ### Para la pasta: 
 Poner a hidratar la gelatina y reservar la leche. Azucarar y montar la nata FRÍA. Poner a calentar el resto (incluyendo el RELLENO de las oreo) en una olla bien gorda. Remover con varillas o espátula hasta que esté todo integrado. Cuando hierva, apagar el fuego, añadir la leche, mezclar bien, escurrir la gelatina e incorporarla hasta k esté bien disuelta (varillas por favor, NO batidora).
