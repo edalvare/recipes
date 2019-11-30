@@ -29,4 +29,4 @@ Mientras enfría la cazuela, integrar la pasta de plátano con una lengua de sil
 
 Una vez todo esté homogeneizado, se vierte en el molde sobre el dorso de una lengua (para no estropear la base de galleta) y se aplana la superficie. Si se quiere pueden ponerse galletas de jengibre/napolitanas cubriendo la superficie, o sumergidas en la masa. Dejar reposar al menos 6 h (lo ideal es toda la noche) y desmoldar. Decorar al gusto y servir.
 
-<img src="/img/pannaCottaDePlatano.jpeg)"/>
+<img src="/img/pannaCottaDePlatano.png)"/>
