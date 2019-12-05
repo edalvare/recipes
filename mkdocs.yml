@@ -17,7 +17,7 @@ nav:
     - Ejemplo: pastas/Ejemplo.md
     - Spaghetti Carbonara: pastas/SpaghettiCarbonara.md
   - Guisos:
-    - Ejemplo: guisos/Ejemplo.md
+    - Níscalos con patatas: guisos/NiscalosConPatatas.md
     - Cuscús con carne, setas y pimiento verde: guisos/CuscusConCarneYSetas.md
     - Ternera estofada con setas: guisos/TerneraEstofadaConSetas.md
     - Patatas a la Riojana: guisos/PatatasALaRiojana.md
@@ -27,6 +27,7 @@ nav:
     - Cheesecake Oreo: tartas/RecetaCheesecakeOreo.md
     - Tarta 3 chocolates: tartas/RecetaTarta3Chocolates.md
     - Tarta de crema con mousse de chocolate blanco: tartas/RecetaTartaDeCremaConMousseDeChocolateBlanco.md
+    - Panna cotta de plátano y galletas: tartas/PannaCottaDePlatano.md
   - Repostería:
     - Crema pastelera: reposteria/CremaPastelera.md
     - Lemon curd: reposteria/LemonCurd.md
@@ -40,6 +41,7 @@ nav:
   - Miscelánea:
     - Cebolla caramelizada: varios/CebollaCaramelizada.md
     - Empanada de atún: varios/EmpanadaDeAtun.md
+    - Aligot: varios/Aligot.md
 
 theme: 
   name: material
