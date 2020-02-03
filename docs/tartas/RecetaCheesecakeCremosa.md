@@ -26,7 +26,7 @@
 
 ### Para la base: 
 
-Triturar la galleta, derretir la mantequilla y mezclar bien las 2 cosas. Poner en el molde (base y laterales) y apretar. Meter al frigo. OPCIONAL: mezclar sobre de peta zetas con el polvo de galleta.
+Triturar la galleta, derretir la mantequilla y mezclar bien las 2 cosas. Poner en el molde (base y laterales) y apretar. Meter al frigo. OPCIONAL: mezclar sobre de peta zetas con el polvo de galleta para que cruja al morderlo.
 
 - Notas:
     + Conviene tostar brevemente el polvo de galleta con una pizca de sal en una sartén antiadherente, SIN aceite ni grasa, hasta que empiece a dorarse y a oler a galleta. Esto hace que caramelice parcialmente la superficie y la sal ayudará a potenciar el sabor dulce de la galleta.
