@@ -7,7 +7,7 @@ nav:
     - Empanada de pollo, boniato y pimientos: aves/EmpanadaDePolloBoniatoYPimientos.md
     - Pollo agridulce: aves/PolloAgridulce.md
   - Carnes:
-    - Ejemplo: carnes/Ejemplo.md
+    - Boloñesa de carne (Ragú): carnes/Bolognesa.md
   - Arroces:
     - Arroz con setas y carne al PX: arroces/ArrozConSetasYCarneAlPX.md
   - Pan:
@@ -43,6 +43,7 @@ nav:
     - Cebolla caramelizada: varios/CebollaCaramelizada.md
     - Empanada de atún: varios/EmpanadaDeAtun.md
     - Aligot: varios/Aligot.md
+    - Patatas Ali Oli de bar: varios/PatatasAloOli.md
 
 theme: 
   name: material
